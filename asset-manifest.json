@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/interview-UrbanStop/static/css/main.34de6062.chunk.css",
+    "main.js": "/interview-UrbanStop/static/js/main.f5399653.chunk.js",
+    "main.js.map": "/interview-UrbanStop/static/js/main.f5399653.chunk.js.map",
+    "runtime-main.js": "/interview-UrbanStop/static/js/runtime-main.32cb9ec5.js",
+    "runtime-main.js.map": "/interview-UrbanStop/static/js/runtime-main.32cb9ec5.js.map",
+    "static/js/2.e2c85189.chunk.js": "/interview-UrbanStop/static/js/2.e2c85189.chunk.js",
+    "static/js/2.e2c85189.chunk.js.map": "/interview-UrbanStop/static/js/2.e2c85189.chunk.js.map",
+    "index.html": "/interview-UrbanStop/index.html",
+    "precache-manifest.183ad084d625795515437da957507642.js": "/interview-UrbanStop/precache-manifest.183ad084d625795515437da957507642.js",
+    "service-worker.js": "/interview-UrbanStop/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/interview-UrbanStop/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32cb9ec5.js",
+    "static/js/2.e2c85189.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.f5399653.chunk.js"
+  ]
+}

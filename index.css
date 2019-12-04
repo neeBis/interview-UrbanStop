@@ -1,0 +1,164 @@
+html , body{
+    background: #ffffff;
+    width:100%;
+    height:100%;
+    overflow:hidden;
+    font-family:'Poppins';
+    color:#373638;
+    padding:0;
+    margin:0;
+}
+.navbar 
+{
+  box-shadow:10px 5px 10px 0px rgb(221,221,221);
+  color:#373638;
+}
+.navbar-brand {
+  width:180px;
+  color:#373638;
+  height:auto;
+  font-weight:600;
+}
+.navbar .container
+{
+display: inline;
+font-size:13px;
+}
+.navbar .container .collapse ul li {
+  text-decoration: none;
+  float:right;
+  padding:0px 12px 0px 12px;
+}
+.navbar ul li a{
+  color:#373638;
+}
+.navbar ul li .fa{
+  padding-right:10px;
+}
+
+.order .main_head h4{
+    float:left;
+    font-family:'Poppins';
+    padding-top:6px;
+   padding-bottom: 3px;
+}
+.order {
+    font-family: 'Poppins';
+    margin-left:3%;
+    margin-right:3%;
+    padding-top:4.5%;
+}
+.order .main_cat_1,.main_cat_2,.main_cat_3,.main_cat_4,.main_cat_5{
+    border:1px solid rgba(221,221,221,0.5);
+}
+
+.order #main_graph{
+  border : 1px solid rgba(221,221,221,0.7);
+}
+
+.order .col
+{
+    float:left;
+}
+.order .main_cat_1{
+    width: 13%;
+}
+.order .main_cat_2{
+    width: 26%;
+    
+}
+.order .main_cat_3{
+    width: 10%;
+}
+.order .main_cat_4{
+    width: 14%;
+}
+.order .main_cat_5{
+    width: 24%;
+}
+/*
+#403f3c
+#3b3a39
+#242229
+#373638
+*/
+.order .col .t_head{
+    font-size:16px;
+    color:#373638;
+    font-weight:700;
+    padding-top:11px;
+    padding-bottom:11px;
+}
+.order .col .t_body{
+    font-size:14px;
+    color:#373638;
+    font-weight:300;
+    padding:11px;  
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.t_line{
+    border:1px solid rgba(221,221,221,0.5);
+    width:100%;
+}
+.t_butt
+{
+     height:43px;
+    font-weight:300;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding:5px;
+}
+.t_butt button
+{
+  float:left;
+  width:38%;
+  margin-right:1%;
+  font-size:12px;
+  text-align: center;
+}
+.t_butt button.dropdown-toggle
+{
+    width:22%;
+    margin-right:0%;
+}
+.t_butt button.btn-blue{
+ color:#ffffff;
+ background: #02099e;
+}
+.t_butt button.btn-red{
+    color:#ffffff;
+    background: #ff1261;
+}
+
+.y, .x, line, path{
+    fill: none;
+   stroke: none;
+ }
+ .x-axis path{
+   stroke-width:1px;
+   stroke:rgba(221,221,221,0.5);
+   margin-top:30px;
+ }
+ .y-axis path{
+   stroke-width:1px;
+   stroke:rgba(221,221,221,0.5);
+   margin-left:30px;
+ }
+
+ .order .main_graph{
+   border:1px solid rgb(221,221,221);
+ }
+
+ .order .adv{
+   overflow:hidden;
+ }
+.order .adv svg{
+  
+    width:100%;
+    height:14px;
+}
